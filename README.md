@@ -16,4 +16,6 @@
 
 ### *process.py* contains all the functions relate to processing of the corpus and evaluation
 
+### Images folder contain all the models architecture
+
 ### *expt_code.ipynb* contains roaw code
